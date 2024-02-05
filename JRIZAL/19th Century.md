@@ -1,4 +1,4 @@
-> [!BUG]- FUN FACT
+> [!TIP]- FUN FACT
 >  19th Century was considered as the "Century of Change"
 
 ## THE WORLD DURING RIZAL'S TIME
@@ -17,7 +17,7 @@
 
 #### RIZAL THE PRODUCT OF HIS TIME
 ---
-- To understand Jose Rizal as the Philippine national hero, it is imperative to explore an understand his time.
+- To understand Jose Rizal as the Philippine national hero, it is imperative to explore and understand his time.
 - To find out the temper of his time that shaped the totality of his person.
 - To connect his frame of mind, his motives in writing his sentiments and convictions.
 - And why he was treated in conflicting manner.
@@ -35,7 +35,7 @@
 
 #### B. THE NEEDS FOR REFORMS: REPRESENTATION
 ---
-1. During Napoleon's time Spain (1804 - 1814) was part of France' alliance against Britain in the continental System
+1. During Napoleon's time, Spain (1804 - 1814) was part of France' alliance against Britain in the continental System
 
 2. Napoleon invaded Spain in 1808, forced its King Charles IV to abdicate in favor of his son who became Ferdinand VII.
 
@@ -49,7 +49,7 @@
 
 7. Ventura de los Reyes, a rich merchant from Manila was chosen to represent the colony.
 
-8. Ferdinand VII assumed power after the French withdrew from spain. He abolished the Cortes.
+8. Ferdinand VII assumed power after the French withdrew from Spain. He abolished the Cortes.
 
 9.  March 9, 1820 Rebellion forced Ferdinand to restore the Cadiz Constitution of 1812.
 
@@ -59,11 +59,11 @@
 
 12. Representation in this body was one of the reforms demanded by reformists like Rizal.
  
- 13. After the death of Ferdinand VII, his daughter Isabela II Ruled the coutnry in decadence and mismanagement.
+ 13. After the death of Ferdinand VII, his daughter Isabela II Ruled the country in decadence and mismanagement.
 
 #### THE RELIGIOUS FRONT: SECULARIZATION
 ---
-1. As early as 16th Century, it as the wish of the King of Spain to turn over the country's Parishes to secular priest. (Council of Trent)
+1. As early as 16th Century, it was the wish of the King of Spain to turn over the country's Parishes to secular priest. (Council of Trent)
 
 2. Since secularization issue pitted the secular who were natives against Spanish regular clergy, it became a racial issue.
 
