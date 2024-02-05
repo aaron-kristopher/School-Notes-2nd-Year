@@ -1,4 +1,4 @@
-> [!TIP]- FUN FACT
+> [!TIP]
 >  19th Century was considered as the "Century of Change"
 
 ## THE WORLD DURING RIZAL'S TIME

@@ -42,7 +42,7 @@ $P(B|A)$
 
 Simple form of Bayesian Theorem
 
-> [!EXAMPLE]-
+> [!EXAMPLE]
 > Sample:
 > What is the probability of two girls given at least one girl?
 > 
