@@ -1,4 +1,4 @@
-## FOUR DAYS O HONOR OUR HEROES
+## FOUR DAYS TO HONOR OUR HEROES
 
 1. ==_**Rizal Day**_== (Dec, 30) commissioned by General Emiliio Aguinaldo
 2.  ==_**Bonifacio Day**_== (Nov, 30) made possible by the issuance of ==Act No. 2946== on February 16, 1921.

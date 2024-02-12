@@ -152,7 +152,7 @@ Modern Philosophy - close at the end of the 18th & 19th century.
 	- He disdains all forms of authority believing that society must be organized from the bottom upwards by spontaneous cooperation or association
 	- he espoused anarchy
 
-5. Georg Wilhelm Friedrich hegel
+5. Georg Wilhelm Friedrich Hegel
 
 	- Has a passionate faith that destroying something old automatically creates something new and the new set-up will be better than the previous one
 	- As progress takes place, conflicts are inevitable
