@@ -86,17 +86,17 @@
 4. <span style="color: yellow; font-weight: bold">Pacto de Pardo</span> - a contract / compromise between the conservatives and the Liberals to alternate in the control of their colonies.
 
 5. <span style="color: yellow; font-weight: bold">Consejo de Indias</span> (Council of the Indies) - a body which exercised executive, legislative, and judicial powers through which Spain administered the Philippines
-5. <span style="color: yellow; font-weight: bold">Consejo de Indias</span> (Council of the Indies) - a body which exercised executive, legislative, and judicial powers through which Spain administered the Philippines
+6. <span style="color: yellow; font-weight: bold">Consejo de Indias</span> (Council of the Indies) - a body which exercised executive, legislative, and judicial powers through which Spain administered the Philippines
 
-6. <span style="color: yellow; font-weight: bold">Secularism</span> - an advocacy that religious influence should be restricted in education, morality, politics and economics. The separation of religion from civic affairs and the state, seeking to remove or to minimize the role of religion in any public sphere.
+7. <span style="color: yellow; font-weight: bold">Secularism</span> - an advocacy that religious influence should be restricted in education, morality, politics and economics. The separation of religion from civic affairs and the state, seeking to remove or to minimize the role of religion in any public sphere.
 
-6. <span style="color: yellow; font-weight: bold">Liberalism</span> - a political philosophy apparent in Europe in the 19th century characterized by progressive rather than conservative attitudes.
+8. <span style="color: yellow; font-weight: bold">Liberalism</span> - a political philosophy apparent in Europe in the 19th century characterized by progressive rather than conservative attitudes.
 
-6. <span style="color: yellow; font-weight: bold">Freemoasorny</span> - fraternal organization originated at the end of 13th Century, that prohibit the discussion of religion and politics within the Lodge.
+9. <span style="color: yellow; font-weight: bold">Freemoasorny</span> - fraternal organization originated at the end of 13th Century, that prohibit the discussion of religion and politics within the Lodge.
 
-6. <span style="color: yellow; font-weight: bold">Ascetism</span> - abandonment of worldly pursuits. Self denial.
-6. <span style="color: yellow; font-weight: bold">Deism</span> -rejection of clerical authority, miracles, and mysteries. "God is best served by the people serving others justly."
-6. <span style="color: yellow; font-weight: bold">Humanism</span> - geared toward the total development of man, to cultivate one's self
+10. <span style="color: yellow; font-weight: bold">Ascetism</span> - abandonment of worldly pursuits. Self denial.
+11. <span style="color: yellow; font-weight: bold">Deism</span> -rejection of clerical authority, miracles, and mysteries. "God is best served by the people serving others justly."
+12. <span style="color: yellow; font-weight: bold">Humanism</span> - geared toward the total development of man, to cultivate one's self
 
 #### THE BACKDROP OF RIZAL'S TIME
 ---
