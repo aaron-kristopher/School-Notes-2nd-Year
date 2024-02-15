@@ -208,7 +208,7 @@ Modern Philosophy - close at the end of the 18th & 19th century.
 9. Forced labor, tribute, and bandala
 10. Abuses of Guardia Civil
 
-#### PHILIPPINES POLITCAL SYSTEM UNDER SPAIN
+#### PHILIPPINES POLITICAL SYSTEM UNDER SPAIN
 ---
 - The Residencia - a body with special judicial court that investigates the performance of a governor general who was about to be replaced
 - Visitadores - a body commissioned by the Crown of Spain to conduct secret investigation on graft and corrupt practices of the government officials
