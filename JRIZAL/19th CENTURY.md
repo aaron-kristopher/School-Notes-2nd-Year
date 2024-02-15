@@ -91,13 +91,21 @@
 
 7. <span style="color: yellow; font-weight: bold">Liberalism</span> - a political philosophy apparent in Europe in the 19th century characterized by progressive rather than conservative attitudes.
 
-8. <span style="color: yellow; font-weight: bold">Freemoasorny</span> - fraternal organization originated at the end of 13th Century, that prohibit the discussion of religion and politics within the Lodge.
+8. <span style="color: yellow; font-weight: bold">Freemasonry</span> - fraternal organization originated at the end of 13th Century, that prohibit the discussion of religion and politics within the Lodge.
 
-9. <span style="color: yellow; font-weight: bold">Ascetism</span> - abandonment of worldly pursuits. Self denial.
+9.  <span style="color: yellow; font-weight: bold">Ascetism</span> - abandonment of worldly pursuits. Self denial.
 
 10. <span style="color: yellow; font-weight: bold">Deism</span> -rejection of clerical authority, miracles, and mysteries. "God is best served by the people serving others justly."
 
-12. <span style="color: yellow; font-weight: bold">Humanism</span> - geared toward the total development of man, to cultivate one's self
+11. <span style="color: yellow; font-weight: bold">Humanism</span> - geared toward the total development of man, to cultivate one's self, to write well, to speak well, to live well and use these knowledge and skills for the public good.
+
+12. <span style="color: yellow; font-weight: bold">Humanitarianism</span> - advocates respect and protection of human basic rights. condemns the barbaric way of treating prisoners.
+
+13. <span style="color: yellow; font-weight: bold">Individualism</span> - a precept which opens avenues for fulfillment of ambitions, talents and expression of self and individuality.
+
+14. <span style="color: yellow; font-weight: bold">Pantheism</span> - a belief or theory that God and the universe are identical. Synonymous to worship of nature.
+
+15. <span style="color: yellow; font-weight: bold">Frailocracy</span> - a form of government run by the friars.
 
 #### THE BACKDROP OF RIZAL'S TIME
 ---
