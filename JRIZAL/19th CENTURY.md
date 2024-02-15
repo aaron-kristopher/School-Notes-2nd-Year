@@ -107,6 +107,12 @@
 
 15. <span style="color: yellow; font-weight: bold">Frailocracy</span> - a form of government run by the friars.
 
+#### THE SPREADING OF THE CONCEPT OF DEMOCRACY
+---
+- 1800 - 1825 - some Spanish colonies revolted and won their independence.
+- 1830 - Greeks won their independence from Turks
+- 1861 - Italy becomes free and united through the works of Camillo Cavour, Joseph Manzini, and Joseph Garibaldi
+
 #### THE BACKDROP OF RIZAL'S TIME
 ---
 Modern Philosophy - close at the end of the 18th & 19th century.
