@@ -179,7 +179,7 @@ Modern Philosophy - close at the end of the 18th & 19th century.
 	- The proposed communism / socialism as an ideal society
 
 7. Francois Marie Arouet (Voltaire)
-	 - He claimed that pen is mightier than sword
+	 - He claimed that pen is mightier than sword, manifested his passion on anti-clericalism, secularization and toleration.
 
 8. Thomas Hobbes
 	- Articulated his political philosophy in his masterpiece Leviathan
