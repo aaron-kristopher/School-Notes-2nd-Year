@@ -56,6 +56,10 @@ A **tally stick** was an ancient memory aid device to record and document number
 - Invented by **Gottfried Wilhelm Liebniz** in 1672.
 - The machine that can add, subtract, multiply and divide automatically.
 
+## Jacquard loom
+---
+- The **Jacqaurd loom** is a mechanical loom, invented by **Joseph-Marie Jacquard** in 1881.
+- It is an automatic loom controlled by punched cards.
 ### Arithmometer
 ---
 - A mechanical calculator invented by **Thomas de Colmar** in 1820.
@@ -76,7 +80,7 @@ A **tally stick** was an ancient memory aid device to record and document number
 
 ### Scheutzian Calculation Engine
 ---
-- Invented by **Per Goerg Scheutz** in 1843.
+- Invented by **Pehr Goerg Scheutz** in 1843.
 - Based on Charles Babbage's difference engine.
 - The first **printing calculator**.
 
