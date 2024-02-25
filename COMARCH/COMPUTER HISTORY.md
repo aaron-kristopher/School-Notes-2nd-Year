@@ -82,3 +82,100 @@ A **tally stick** was an ancient memory aid device to record and document number
 
 ### Tabulating Machine
 ---
+- Invented by **Herman Hollerith** in 1890.
+- To assist in summarizing information and accounting.
+
+### Harvard Mark 1
+---
+- Also known as IBM Automatic Sequence Controlled Calculator (ASCC).
+- Invented by **Howard H. Aiken** in 1943.
+- The first electro-mechanical computer.
+
+### Z1
+---
+- The first programmable computer .
+- Invented by **Konrad Zuse** in Germany from **1936 to 1938**.
+- To program the Z1 required that the user insert punch tape into a punch tape reader and all output was also generated through punch tape.
+
+### Atanasoff-Berry Computer (ABC)
+---
+- It was the first electronic digital computing device.
+- Invented by **Professor John Atanasoff** and graduate student **Clifford Berry** at Iowa State University between 1939 and 1942.
+
+### ENIAC
+---
+- **ENIAC** stands for **Electronic Numerical Integrator and Computer**.
+- It was the first electronic general-purpose computer.
+- Completed in 1946.
+- Developed by **John Presper Eckert** and **John W. Mauchly**.
+
+### UNIVAC 1
+---
+- The **UNIVAC I** (**UNIV**ersal **A**utomatic **C**omputer **1**) was the first commercial computer.
+- Designed by **John Presper Eckert** and **John W. Mauchly**.
+
+### EDVAC
+---
+- **EDVAC** stands for **Electronic Discrete Variable Automatic Computer**.
+- **The First Stored Program Computer**.
+- Designed by Von Neumann in 1952.
+- It has a memory to hold both a stored program as well as data.
+
+### The First Portable Computer
+---
+- **Osborne 1** - the first portable computer.
+- Released in 1981 by the Osborne Computer Corporation.
+
+### The First Computer Company
+---
+- The first computer company was the **Electronic Controls Company**.
+- Founded in 1949 by **J. Presper Eckert ** and **John Mauchly**
+
+# Computer Generations
+---
+
+- **First Generation** - 1946 - 1958
+- **Second Generation** - 1959 - 1964
+- **Third Generation** - 1965 - 1970
+- **Fourth Generation** - 1971 - Today
+- **Fifth Generation** - Today to the Future
+
+## The First Generation
+---
+- The first computers used **vacuum tubes** for circuitry and **magnetic drums** for memory, and were often enormous, taking up entire rooms.
+- They were very expensive to operate and in addition to using a great deal of electricity, generated a lot of heat, which was often the cause of malfunctions.
+- First generation computers relied on machine language, the lowest-level programming language understood by computers, to perform operations, and they could only solve one problem at a time.
+- Input was based on punched cards and paper tape, and output was displayed on printouts.
+
+## The Second Generation
+---
+- Transistors replaced vacuum tubes and ushered in the second generation of computers.
+- One transistor replaced the equivalent of **40 vacuum tubes**. Allowing computers to become smaller, faster, cheaper, more energy efficient and more reliable.
+- Still generated a great deal of heat that can damage the computer. 
+- Second-generation computers moved from cryptic binary machine language to symbolic, or assembly languages, which allowed programmers to specify instructions in words.
+- Second-generation computers still relied on punched cards for input and printouts for output.
+- these were also the first computers that stored their instructions in their memory, which moved from a magnetic drum to magnetic core technology.
+
+## The Third Generation
+---
+- The development of the **integrated circuit** was the hallmark of the third generation of computers.
+- Transistors were miniaturized and placed on silicon chips, called semiconductors, which drastically increased the speed and efficiency of computers.
+- Much smaller and cheaper compared to the second generation computers.
+- It could carry out instructions in billionths of a second.
+- Users interacted with third generation computers through keyboards and monitors and interfaced with an operating system, which allowed the device to run many different applications at one time with a central program that monitored the memory.
+- Computers for the first time became accessible to a mass audience because they were small and cheaper than their predecessors.
+
+## The Fourth Generation
+---
+- The **microprocessor** brought the fourth generation of computers, as thousands of integrated circuits were built onto a single silicon chip.
+- As these small computers became more powerful, they could be linked together to form networks, which eventually led to the development of the Internet.
+- Fourth generation computers also saw the development of GUIs, the mouse and the handheld devices.
+
+## The Fifth Generation
+---
+- Based on Artificial Intelligence (AI)
+- Still in development
+- The use of parallel processing and superconductors is helping to make artificial intelligence a reality.
+- The goal is to develop devices that respond to natural language input and are capable of learning and self-organization.
+- There are some applications, such as voice recognition, that are being used today.
+
